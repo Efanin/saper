@@ -39,6 +39,7 @@ namespace saper
 
             };
         }
+
         private void spawnMines(int x, int y)
         {
             for (int i = 0; i < mines.GetLength(0); i++)
